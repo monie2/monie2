@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @monie
-- 👀 I’m interested in art and learning code
+- 👀 I’m interested in 
 - 🌱 I’m currently learning computer science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
